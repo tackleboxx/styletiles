@@ -10,8 +10,17 @@ Copyright 2013, Josh Cope
 /* =============================================================================
    Page Styles
    ========================================================================== */
+body {
+	background-image: url(../images/tweed.png);
+}
+h1 {
+	color:#fff;
+	text-shadow: black 0.1em 0.1em 0.2em;
+}
 footer p {
 	text-align: center;
+	color:#fff;
+	text-shadow: black 0.1em 0.1em 0.2em;
 }
 /* =============================================================================
    Media Queries
